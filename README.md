@@ -1,14 +1,22 @@
-## Developer Portfolio Landing Page Template
+# Hi there, I'm Elyssa!
 
-### ⚠️ Project Discontinued ⚠️
+## About Me
 
-**Note:** This project is no longer maintained and has been discontinued. No further updates or support will be provided. Feel free to fork the repository and make any necessary changes on your own.
+Current data science student, looking to work in bioinformatics, but I'm exploring various fields to find where my passions lie! 
 
----
+- Currently Learning: Pandas, Seaborn, SQL
+- Working On: Breast Cancer Analysis
+- Languages: English (Native), Bahasa Malaysia (Fluent), Python, C++
 
-### Introduction
+## My Skills
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+## Featured Projects
+
+## Reach Out!
+- **[Personal Website / Blog]**(your_website_or_blog_link)
+- **[LinkedIn]**(your_linkedin_profile_link)
+- **[Email]**(elyssaayu5@gmail.com)
+
 
 ### Installation
 
